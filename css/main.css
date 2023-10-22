@@ -1,3 +1,7 @@
+.card {
+  min-height: 650px;
+}
+
 .card-container .btn:hover {
   background-color: #666;
 }
@@ -13,4 +17,8 @@
   transform: scale(
     1.25
   ); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.bi-star-fill {
+  color: #ffe135;
 }
