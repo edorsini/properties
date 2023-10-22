@@ -7,7 +7,6 @@
 }
 
 .zoom {
-  padding: 50px;
   -color: #ccc;
   transition: transform 0.2s; /* Animation */
   margin: 0 auto;
