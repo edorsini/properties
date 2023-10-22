@@ -21,3 +21,15 @@
 .bi-star-fill {
   color: #ffe135;
 }
+
+.alert {
+    width: 100%;
+    background: rgb(19, 120, 19);
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+    display: none;
+}
